@@ -32,7 +32,7 @@ function SignIn() {
             console.log(resp);
             alert("Correct login. You have " + resp.data.authorization + " authorization");
         } catch (err) {
-            alert("Incorrect password");
+            alert("Incorrect login");
         }
     };
 

@@ -13,7 +13,7 @@ This will then open up the next page that will ask you to type out your username
 
 ![085E7381-E451-4545-B875-3C707D9C365C_1_201_a](https://user-images.githubusercontent.com/78940830/145566112-285d87ec-5de0-4492-a84f-b1fd911ad308.jpeg)
 
-Next, you can click `Already have a sign in?` button in order to sign in to your recently made account.  Next input your credentials and press continue.  Depending on whether or not your login was authenticated, you will receive an alert.  The alert will either tell you `Incorrect password` or `Correct login` and will tell you whether you have guest or admin authorization.
+Next, you can click `Already have a sign in?` button in order to sign in to your recently made account.  Next, input your credentials and press continue.  Depending on whether or not your login was authenticated, you will receive an alert.  The alert will either tell you `Incorrect login` or `Correct login` and will tell you whether you have guest or admin authorization.
 
 ![9487DDD5-22C1-4BED-8590-E506EE2ACECA_1_201_a](https://user-images.githubusercontent.com/78940830/145566172-74b5b3cc-0608-4953-9433-f14fe2e1c09c.jpeg)
 
